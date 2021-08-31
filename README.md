@@ -5,6 +5,12 @@
   <a href="https://www.polywork.com/zunkelty">Polywork</a>
 </p>
 
+-------
+
+👉 <a href="https://soenkepeters.me"><b>Portfolio / CV</b></a>
+
+-------
+
 📊 My top languages across all (public) repos
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zunkelty&show_icons=true&layout=compact&hide_title=true)
