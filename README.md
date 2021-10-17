@@ -7,7 +7,7 @@
 
 -------
 
-👉 <a href="https://soenkepeters.me"><b>Portfolio / CV</b></a>
+👉 <a href="https://www.soenkep.com?utm_medium=social&utm_source=github&utm_campaign=readme"><b>Interested in working together? Visit my website and send me a message!</b></a>
 
 -------
 
