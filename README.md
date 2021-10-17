@@ -7,7 +7,7 @@
 
 -------
 
-👉 <a href="https://www.soenkep.com?utm_medium=social&utm_source=github&utm_campaign=readme"><b>Interested in working together? Visit my website and send me a message!</b></a>
+👉 <p>Interested in working together? <a href="https://www.soenkep.com?utm_medium=social&utm_source=github&utm_campaign=readme"><b>Visit my website and send me a message!</b></a></p>
 
 -------
 
