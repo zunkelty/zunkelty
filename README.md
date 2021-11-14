@@ -17,7 +17,7 @@
 
 -------
 
-📊 A breakdown of everything I've done in the last week
+📊 A breakdown of everything I've worked on in the 7 days
 
 <!--START_SECTION:waka-->
 ```text
