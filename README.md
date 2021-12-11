@@ -14,17 +14,3 @@
 📊 My top languages across all (public) repos
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zunkelty&show_icons=true&layout=compact&hide_title=true) --->
-
--------
-
-📊 A breakdown of everything I've worked on in the last 7 days
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   2 hrs 13 mins   ███████████████▒░░░░░░░░░   61.19 % 
-JavaScript   40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.49 % 
-SCSS         25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Bash         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-JSX          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-```
-<!--END_SECTION:waka-->
