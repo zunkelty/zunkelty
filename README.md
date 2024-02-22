@@ -1,8 +1,7 @@
 <h2 align="center">👋 Hey! I'm Sönke.</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/soepet/">LinkedIn</a> •
-  <a href="https://twitter.com/zunkp">Twitter</a> •
-  <a href="https://www.polywork.com/zunkelty">Polywork</a>
+  <a href="https://twitter.com/zunkp">Twitter</a>
 </p>
 
 -------
